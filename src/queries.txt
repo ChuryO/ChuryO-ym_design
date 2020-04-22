@@ -1,0 +1,18 @@
+
+// Menu
+{
+  menus {
+    nodes {
+      menuItems {
+        edges {
+          node {
+            label
+            url
+          }
+        }
+      }
+    }
+  }
+}
+
+//
